@@ -50,14 +50,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-151947591-1`,
+        trackingId: `UA-132856598-3`,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `illlustrations by realvjy`,
+        name: `illlustrations by SEELAY`,
         short_name: `illustrations`,
         start_url: `/`,
         background_color: `#ffffff`,
