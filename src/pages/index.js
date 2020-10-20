@@ -24,9 +24,9 @@ class Index extends React.Component {
         <SEO title="illustrations by SEELAY" />
         <Hero />
         <COVID19 />
-        <COVID18 />
+        {/* <COVID18 />
         <Featured />
-        <Illustrations />
+        <Illustrations /> */}
         <Challange />
         <Product />
 
