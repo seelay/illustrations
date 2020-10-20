@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `illlustrations`,
     author: `Aman Seelay`,
-    description: `Opensource illustrations poject. You can use completely free and without attribution.`,
+    description: `Opensource illustrations poject by SEELAY. You can use completely free and without attribution.`,
     siteUrl: `https://illlustrations.seelay.co.in`,
     social: {
       twitter: `imseelay`,

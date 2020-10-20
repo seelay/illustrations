@@ -1,11 +1,11 @@
 {
   "name": "illlustrations",
   "private": true,
-  "description": "Large set of opensource illustrations. You can use completely free and without attribution.",
+  "description": "Opensource illustrations poject by SEELAY. You can use completely free and without attribution.",
   "version": "1.0.1",
-  "author": "vijay verma <hello@vijayverma.co>",
+  "author": "Aman Seelay <Aman@seelay.in>",
   "bugs": {
-    "url": "https://github.com/realvjy/illlustrations/issues"
+    "url": "https://github.com/imseelay/illlustrations/issues"
   },
   "dependencies": {
     "gatsby": "^2.17.6",
