@@ -21,7 +21,7 @@ class Index extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="illustrations by SEELAY" />
+        <SEO title="Illustrations by SEELAY" />
         <Hero />
         <COVID19 />
         {/* <COVID18 />
