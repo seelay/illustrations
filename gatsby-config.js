@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `illlustrations`,
-    author: `vijay verma`,
-    description: `Large set of opensource illustrations. You can use completely free and without attribution.`,
-    siteUrl: `https://illlustrations.co`,
+    author: `Aman Seelay`,
+    description: `Opensource illustrations poject. You can use completely free and without attribution.`,
+    siteUrl: `https://illlustrations.seelay.co.in`,
     social: {
-      twitter: `realvjy`,
+      twitter: `imseelay`,
     },
   },
   plugins: [
