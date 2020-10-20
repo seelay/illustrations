@@ -61,7 +61,7 @@ module.exports = {
         short_name: `illustrations`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#F7C945`,
+        theme_color: `#f1ede9`,
         display: `minimal-ui`,
         icon: `content/assets/illlustrations-icon.png`,
       },

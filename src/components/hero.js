@@ -17,7 +17,7 @@ const Hero = () => {
               <p>Designed <strong>100 awesome illustrations</strong> during 100 days of illustration challenge (Now added more than <strong>120+ </strong>illustrations). You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
             </div>
 
-            <div className="btn-lnks">
+            {/* <div className="btn-lnks">
               <div className="dwn-links">
                 <button className="btn btn-download">
                   <h4>Download all</h4>
@@ -33,7 +33,7 @@ const Hero = () => {
                 <h4>Buy me a coffee</h4>
                 <span>and show some love</span>
               </a>
-            </div>
+            </div> */}
             <div className="license">
             <p>Free for <a href="/license">Commercial and Personal Use</a>. No need to credit, license, or anything.</p>
             </div>

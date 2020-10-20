@@ -12,7 +12,7 @@ class Layout extends React.Component {
       <div className="announce-wrapper designletter">
         <div className="container">
           <div className="an-details">
-            <p><a href="https://designletter.co/?ref=illlustrations" target="_blank">Subscribe to <img src="/designletter-logo.png" /> <span>: A weekly newsletter for designers, developers and managers.</span></a></p>
+            <p><a href="https://seelay.in/?ref=illustrations" target="_blank">Made with ❤ by <img src="/s-logo.png" /></a></p>
           </div>
         </div>
       </div>
@@ -25,7 +25,7 @@ class Layout extends React.Component {
             </Link>
             <ul className="buttons links">
               <li>
-                <a className="btn-tw" href="https://twitter.com/intent/tweet?text=Design%20awesome%20landing%20page,%20mockup%20and%20presentations%20with%20this%20open-source%20illlustrations%20library.%20%20https://illlustrations.co%20@_illlustrations%20by%20@realvjy">Share on twitter <img src="/twitter.svg"/></a>
+                <a className="btn-tw" target="_blank" href="https://www.buymeacoffee.com/Seelay">Buy me a coffee <img src="/coffee.svg"/></a>
               </li>
 
             </ul>
@@ -43,9 +43,9 @@ class Layout extends React.Component {
         <div className="carbon-ads">
           <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7IT5QI&placement=illlustrationsco" id="_carbonads_js"></script>
         </div>
-        <div className="ph-float">
+        {/* <div className="ph-float">
           <a href="https://www.producthunt.com/posts/illlustrations?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-illlustrations" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=174656&theme=light" alt="illlustrations - Open source illustrations library for design projects | Product Hunt Embed"/></a>
-        </div>
+        </div> */}
         <footer className="container footer">
           <div className="dev-credit">
           <div className="logo">
