@@ -8,7 +8,7 @@
     "url": "https://github.com/imseelay/illlustrations/issues"
   },
   "dependencies": {
-    "gatsby": "^2.17.6",
+    "gatsby": "^2.24.82",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-feed": "^2.3.19",
     "gatsby-plugin-google-analytics": "^2.1.23",
