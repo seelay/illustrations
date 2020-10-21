@@ -82,7 +82,7 @@ const COVID19 = () => {
           <div className="feature-dwn">
             <div className="btn-lnks">
               <a href="https://github.com/realvjy/illlustrations/releases/download/1.0.3/COVID.WFH.illlustrations.zip" className="btn btn-coffee"><h4>Download COVID Pack</h4></a>
-              <div className="dwn-links">
+              {/* <div className="dwn-links">
                 <button className="btn btn-download">
                   <h4>Download all</h4>
                 </button>
@@ -91,7 +91,7 @@ const COVID19 = () => {
                   <li><a href="https://www.dropbox.com/sh/wd9awx71rx5fr8z/AABATGMLfrM6d_kQLj__yaQga?dl=0">EPS Files</a></li>
                   <li><a href="https://www.figma.com/community/file/810922307190314237">Get Figma File</a></li>
                 </ul>
-              </div>
+              </div> */}
             </div>
         </div>
       </div>
