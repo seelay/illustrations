@@ -53,7 +53,7 @@ const Tab1 = () => {
     <section className="illus covid">
       <div className="container">
         <div className="title">
-          <h1>COVID & WFH </h1>
+          <h1>Graphic Designs</h1>
         </div>
         <div className="illus-wrap">
         {illlus.map(({ node }) => {

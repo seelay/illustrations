@@ -53,7 +53,7 @@ const Featured = () => {
     <section className="illus chris">
       <div className="container">
         <div className="title">
-          <h1>20 New Illustrations</h1>
+          <h1>50 New Illustrations</h1>
         </div>
         <div className="illus-wrap">
         {illlus.map(({ node }) => {
@@ -81,7 +81,7 @@ const Featured = () => {
           </div>
           <div className="feature-dwn">
             <div className="btn-lnks">
-              <a href="https://github.com/realvjy/illlustrations/releases/download/1.0.2/20.illustrations.pack.zip" className="btn btn-coffee"><h4>Download New Pack</h4></a>
+              <a href="https://mega.nz/file/BKR0kL7A#ENKe9ovwaSVN6JYiMLYp9jPJO0gLq3n0Q-aC_w10ViU" target="__blank" className="btn btn-coffee"><h4>Download New Pack</h4></a>
               {/* <div className="dwn-links">
                 <button className="btn btn-download">
                   <h4>Download all</h4>

@@ -23,8 +23,8 @@ class Index extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="illustrations" />
         <Hero />
-        <Tab1 />
-        {/* <COVID19 /> */}
+        {/* <Tab1 />
+        <COVID19 /> */}
         <Featured />
         <Illustrations />
         <Challange />
