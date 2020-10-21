@@ -11,7 +11,7 @@ import Hero from "../components/hero"
 import Product from "../components/product"
 import Featured from "../components/featured"
 import COVID19 from "../components/covid-19"
-import COVID18 from "../components/covid-18"
+import Tab1 from "../components/tab1"
 
 class Index extends React.Component {
   render() {
@@ -23,10 +23,10 @@ class Index extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="illustrations" />
         <Hero />
-        <COVID19 />
-        {/* <COVID18 />
+        <Tab1 />
+        {/* <COVID19 /> */}
         <Featured />
-        <Illustrations /> */}
+        <Illustrations />
         <Challange />
         <Product />
 
