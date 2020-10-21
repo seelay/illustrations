@@ -1,6 +1,6 @@
 ---
 title: "28-browser"
-date: 2020-10-02
+date: 2020-06-28
 author: "Aman Seelay"
 svg: ./028-browser.svg
 png: ./028-browser.png

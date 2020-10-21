@@ -1,6 +1,6 @@
 ---
 title: "43-paint-palette"
-date: 2020-10-02
+date: 2020-07-13
 author: "Aman Seelay"
 svg: ./043-paint-palette.svg
 png: ./043-paint-palette.png

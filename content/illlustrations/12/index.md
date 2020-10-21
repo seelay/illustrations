@@ -1,6 +1,6 @@
 ---
 title: "12-opacity"
-date: 2020-10-02
+date: 2020-06-12
 author: "Aman Seelay"
 svg: ./012-opacity.svg
 png: ./012-opacity.png

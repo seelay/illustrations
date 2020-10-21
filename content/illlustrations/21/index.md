@@ -1,6 +1,6 @@
 ---
 title: "21-eraser"
-date: 2020-10-02
+date: 2020-06-21
 author: "Aman Seelay"
 svg: ./021-eraser.svg
 png: ./021-eraser.png

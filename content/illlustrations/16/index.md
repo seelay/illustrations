@@ -1,6 +1,6 @@
 ---
 title: "16-pantone"
-date: 2020-10-02
+date: 2020-06-16
 author: "Aman Seelay"
 svg: ./016-pantone.svg
 png: ./016-pantone.png

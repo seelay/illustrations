@@ -1,6 +1,6 @@
 ---
 title: "46-paint-spray"
-date: 2020-10-02
+date: 2020-07-16
 author: "Aman Seelay"
 svg: ./046-paint-spray.svg
 png: ./046-paint-spray.png

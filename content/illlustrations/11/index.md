@@ -1,6 +1,6 @@
 ---
 title: "11-vector-2"
-date: 2020-10-02
+date: 2020-06-11
 author: "Aman Seelay"
 svg: ./011-vector-2.svg
 png: ./011-vector-2.png

@@ -1,6 +1,6 @@
 ---
 title: "22-idea-1"
-date: 2020-10-02
+date: 2020-06-22
 author: "Aman Seelay"
 svg: ./022-idea-1.svg
 png: ./022-idea-1.png

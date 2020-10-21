@@ -1,6 +1,6 @@
 ---
 title: "25-reflect"
-date: 2020-10-02
+date: 2020-06-25
 author: "Aman Seelay"
 svg: ./025-reflect.svg
 png: ./025-reflect.png

@@ -1,6 +1,6 @@
 ---
 title: "20-laptop"
-date: 2020-10-02
+date: 2020-06-20
 author: "Aman Seelay"
 svg: ./020-laptop.svg
 png: ./020-laptop.png

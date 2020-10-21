@@ -1,6 +1,6 @@
 ---
 title: "10-paint-bucket"
-date: 2020-10-02
+date: 2020-06-10
 author: "Aman Seelay"
 svg: ./010-paint-bucket.svg
 png: ./010-paint-bucket.png

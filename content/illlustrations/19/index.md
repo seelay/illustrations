@@ -1,6 +1,6 @@
 ---
 title: "19-text-editor"
-date: 2020-10-02
+date: 2020-06-19
 author: "Aman Seelay"
 svg: ./019-text-editor.svg
 png: ./019-text-editor.png

@@ -1,6 +1,6 @@
 ---
 title: "32-drawing"
-date: 2020-10-02
+date: 2020-07-02
 author: "Aman Seelay"
 svg: ./032-drawing.svg
 png: ./032-drawing.png

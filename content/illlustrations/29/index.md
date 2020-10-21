@@ -1,6 +1,6 @@
 ---
 title: "29-crop"
-date: 2020-10-02
+date: 2020-06-29
 author: "Aman Seelay"
 svg: ./029-crop.svg
 png: ./029-crop.png

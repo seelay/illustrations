@@ -1,6 +1,6 @@
 ---
 title: "13-settings"
-date: 2020-10-02
+date: 2020-06-13
 author: "Aman Seelay"
 svg: ./013-settings.svg
 png: ./013-settings.png

@@ -1,6 +1,6 @@
 ---
 title: "26-target"
-date: 2020-10-02
+date: 2020-06-26
 author: "Aman Seelay"
 svg: ./026-target.svg
 png: ./026-target.png

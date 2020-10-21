@@ -1,6 +1,6 @@
 ---
 title: "48-color-palette"
-date: 2020-10-02
+date: 2020-07-18
 author: "Aman Seelay"
 svg: ./048-color-palette.svg
 png: ./048-color-palette.png

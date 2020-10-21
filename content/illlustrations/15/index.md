@@ -1,6 +1,6 @@
 ---
-title: "015-browser-1"
-date: 2020-10-02
+title: "15-browser-1"
+date: 2020-06-15
 author: "Aman Seelay"
 svg: ./015-browser-1.svg
 png: ./015-browser-1.png

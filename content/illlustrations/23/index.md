@@ -1,6 +1,6 @@
 ---
 title: "23-visibility"
-date: 2020-10-02
+date: 2020-06-23
 author: "Aman Seelay"
 svg: ./023-visibility.svg
 png: ./023-visibility.png

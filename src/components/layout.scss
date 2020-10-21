@@ -618,14 +618,16 @@ footer {
     flex-wrap: wrap;
     padding: 20px 8px;
     margin-bottom: 40px;
+
     .day-box {
-      width: 25%;
+      width: 20%;
       @media (max-width: $tablet-wide) {
         width: 50%;
       }
       @media (max-width: $tablet) {
         width: 100%;
       }
+
       .i-wrap {
         position: relative;
         margin: 10px;

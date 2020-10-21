@@ -1,6 +1,6 @@
 ---
 title: "49-ideas"
-date: 2020-10-02
+date: 2020-07-19
 author: "Aman Seelay"
 svg: ./049-ideas.svg
 png: ./049-ideas.png

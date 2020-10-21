@@ -1,6 +1,6 @@
 ---
 title: "18-sketch"
-date: 2020-10-02
+date: 2020-06-18
 author: "Aman Seelay"
 svg: ./018-sketch.svg
 png: ./018-sketch.png

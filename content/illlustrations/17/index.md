@@ -1,6 +1,6 @@
 ---
 title: "17-pencil-case"
-date: 2020-10-02
+date: 2020-06-17
 author: "Aman Seelay"
 svg: ./017-pencil-case.svg
 png: ./017-pencil-case.png

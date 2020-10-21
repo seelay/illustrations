@@ -1,6 +1,6 @@
 ---
 title: "31-layout"
-date: 2020-10-02
+date: 2020-07-01
 author: "Aman Seelay"
 svg: ./031-layout.svg
 png: ./031-layout.png

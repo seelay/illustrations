@@ -1,6 +1,6 @@
 ---
 title: "24-creativity"
-date: 2020-10-02
+date: 2020-06-24
 author: "Aman Seelay"
 svg: ./024-creativity.svg
 png: ./024-creativity.png

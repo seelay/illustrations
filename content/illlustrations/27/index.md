@@ -1,6 +1,6 @@
 ---
 title: "27-lasso"
-date: 2020-10-02
+date: 2020-06-27
 author: "Aman Seelay"
 svg: ./027-lasso.svg
 png: ./027-lasso.png

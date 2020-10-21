@@ -1,6 +1,6 @@
 ---
 title: "39-graphic-tablet"
-date: 2020-10-02
+date: 2020-07-09
 author: "Aman Seelay"
 svg: ./039-graphic-tablet.svg
 png: ./039-graphic-tablet.png

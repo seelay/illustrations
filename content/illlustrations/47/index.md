@@ -1,6 +1,6 @@
 ---
 title: "47-paint-roller"
-date: 2020-10-02
+date: 2020-07-17
 author: "Aman Seelay"
 svg: ./047-paint-roller.svg
 png: ./047-paint-roller.png

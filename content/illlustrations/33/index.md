@@ -1,6 +1,6 @@
 ---
 title: "33-compass"
-date: 2020-10-02
+date: 2020-07-03
 author: "Aman Seelay"
 svg: ./033-compass.svg
 png: ./033-compass.png

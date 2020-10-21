@@ -1,6 +1,6 @@
 ---
 title: "40-pipette"
-date: 2020-10-02
+date: 2020-07-10
 author: "Aman Seelay"
 svg: ./040-pipette.svg
 png: ./040-pipette.png

@@ -1,6 +1,6 @@
 ---
 title: "37-vector-1"
-date: 2020-10-02
+date: 2020-07-07
 author: "Aman Seelay"
 svg: ./037-vector-1.svg
 png: ./037-vector-1.png

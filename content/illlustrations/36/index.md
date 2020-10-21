@@ -1,6 +1,6 @@
 ---
 title: "36-idea"
-date: 2020-10-02
+date: 2020-07-06
 author: "Aman Seelay"
 svg: ./036-idea.svg
 png: ./036-idea.png

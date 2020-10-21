@@ -1,6 +1,6 @@
 ---
 title: "7-text-editor-1"
-date: 2020-10-02
+date: 2020-06-07
 author: "Aman Seelay"
 svg: ./007-text-editor-1.svg
 png: ./007-text-editor-1.png

@@ -1,6 +1,6 @@
 ---
 title: "50-vector"
-date: 2020-10-02
+date: 2020-07-20
 author: "Aman Seelay"
 svg: ./050-vector.svg
 png: ./050-vector.png

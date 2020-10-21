@@ -1,6 +1,6 @@
 ---
 title: "30-graphic-design"
-date: 2020-10-02
+date: 2020-06-30
 author: "Aman Seelay"
 svg: ./030-graphic-design.svg
 png: ./030-graphic-design.png

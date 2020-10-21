@@ -1,6 +1,6 @@
 ---
 title: "45-paint-brush"
-date: 2020-10-02
+date: 2020-07-15
 author: "Aman Seelay"
 svg: ./045-paint-brush.svg
 png: ./045-paint-brush.png
