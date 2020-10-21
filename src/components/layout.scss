@@ -8,7 +8,7 @@ $lightbg: #eee7d6;
 $grey: #f1ede9;
 $blue: #0e63f9;
 $b-grey: #f0f2fb;
-$red: #ca324f;
+$red: #ff434d;
 $light-grey: #353639;
 $blue-grey: #000000;
 
@@ -499,7 +499,7 @@ body {
 }
 
 .challange {
-  background: $green;
+  background: $red;
   color: $white;
   .challange-wrap {
     padding: 80px 18px;
@@ -683,9 +683,9 @@ footer {
               border-radius: 6px;
             }
             .btn-svg {
-              background: $blue;
+              background: $red;
               color: $white;
-              border: 1px solid $blue;
+              border: 1px solid $red;
             }
             .btn-png {
               border: 1px solid $white;

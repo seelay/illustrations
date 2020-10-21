@@ -10,9 +10,9 @@ const Challange = () => {
     <section className="challange">
       <div className="container">
         <div className="challange-wrap">
-          <h1>#100daysChallenge</h1>
-          <p>Back in 2016, I spent almost 2 hours a day for 100 days just for designing, illustrating and experimenting to get myself to the next level in illustration. All those illustrations were saved on my drive untouched for years. So, decided to shared with you guys for FREE.</p>
-          <div className="btn-lnks">
+          <h1>illustrations by SEELAY</h1>
+          <p> Imagination Is The Beginning of Creation. - George Bernard Shaw </p>
+          {/* <div className="btn-lnks">
             <div className="dwn-links">
               <button className="btn btn-download">
                 <h4>Download all</h4>
@@ -24,7 +24,7 @@ const Challange = () => {
               </ul>
             </div>
             <a href="https://dribbble.com/realvjy/projects/459862-100-Days-of-Illustration" target="__blank" className="btn btn-coffee"><h4>View on Dribbble</h4></a>
-          </div>
+          </div> */}
 
         </div>
       </div>
