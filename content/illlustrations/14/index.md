@@ -4,7 +4,7 @@ date: 2020-06-14
 author: "Aman Seelay"
 svg: ./014-3d-cube.svg
 png: ./014-3d-cube.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:

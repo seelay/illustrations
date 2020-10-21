@@ -4,7 +4,7 @@ date: 2020-06-12
 author: "Aman Seelay"
 svg: ./012-opacity.svg
 png: ./012-opacity.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:

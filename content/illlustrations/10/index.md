@@ -4,7 +4,7 @@ date: 2020-06-10
 author: "Aman Seelay"
 svg: ./010-paint-bucket.svg
 png: ./010-paint-bucket.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:

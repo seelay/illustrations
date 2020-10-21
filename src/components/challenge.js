@@ -10,7 +10,7 @@ const Challange = () => {
     <section className="challange">
       <div className="container">
         <div className="challange-wrap">
-          <h1>illustrations by SEELAY</h1>
+          <h1>"Quote"</h1>
           <p> Imagination Is The Beginning of Creation. - George Bernard Shaw </p>
           {/* <div className="btn-lnks">
             <div className="dwn-links">

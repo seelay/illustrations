@@ -4,7 +4,7 @@ date: 2020-06-15
 author: "Aman Seelay"
 svg: ./015-browser-1.svg
 png: ./015-browser-1.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:

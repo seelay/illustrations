@@ -4,7 +4,7 @@ date: 2020-06-16
 author: "Aman Seelay"
 svg: ./016-pantone.svg
 png: ./016-pantone.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:

@@ -4,7 +4,7 @@ date: 2020-06-20
 author: "Aman Seelay"
 svg: ./020-laptop.svg
 png: ./020-laptop.png
-featured: true
+featured: false
 category:
   - Tab1
 tags:
