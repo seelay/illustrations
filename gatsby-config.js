@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `illlustrations by SEELAY`,
+        name: `illlustrations`,
         short_name: `illustrations`,
         start_url: `/`,
         background_color: `#ffffff`,
