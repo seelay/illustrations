@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "12-opacity"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./012-opacity.svg
+png: ./012-opacity.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./012-opacity.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./012-opacity.png" download className="btn-png">PNG</a></li>

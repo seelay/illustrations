@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "19-text-editor"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./019-text-editor.svg
+png: ./019-text-editor.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./019-text-editor.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./019-text-editor.png" download className="btn-png">PNG</a></li>

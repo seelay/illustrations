@@ -1,6 +1,6 @@
 ---
-title: "1: mouse"
-date: 2020-10-02
+title: "1-mouse"
+date: 2020-06-01
 author: "Aman Seelay"
 svg: ./001-mouse.svg
 png: ./001-mouse.png

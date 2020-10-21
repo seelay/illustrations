@@ -1,6 +1,6 @@
 ---
 title: "3-magic-wand"
-date: 2020-10-02
+date: 2020-06-03
 author: "Aman Seelay"
 svg: ./003-magic-wand.svg
 png: ./003-magic-wand.png

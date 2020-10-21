@@ -1,6 +1,6 @@
 ---
 title: "6-protractor"
-date: 2020-10-02
+date: 2020-06-06
 author: "Aman Seelay"
 svg: ./006-protractor.svg
 png: ./006-protractor.png

@@ -1,6 +1,6 @@
 ---
 title: "4-rgb"
-date: 2020-10-02
+date: 2020-06-04
 author: "Aman Seelay"
 svg: ./004-rgb.svg
 png: ./004-rgb.png

@@ -2,9 +2,9 @@
 title: ""
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
-featured: true
+svg: ./042-tools.svg
+png: ./042-tools.png
+featured: false
 category:
   - Tab1
 tags:
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./042-tools.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./042-tools.png" download className="btn-png">PNG</a></li>

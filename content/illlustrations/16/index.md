@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "16-pantone"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./016-pantone.svg
+png: ./016-pantone.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./016-pantone.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./016-pantone.png" download className="btn-png">PNG</a></li>

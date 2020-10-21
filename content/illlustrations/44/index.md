@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "44-transform"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
-featured: true
+svg: ./044-transform.svg
+png: ./044-transform.png
+featured: false
 category:
   - Tab1
 tags:
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./044-transform.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./044-transform.png" download className="btn-png">PNG</a></li>

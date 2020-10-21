@@ -1,6 +1,6 @@
 ---
 title: "2-wireframe"
-date: 2020-10-02
+date: 2020-06-02
 author: "Aman Seelay"
 svg: ./002-wireframe.svg
 png: ./002-wireframe.png

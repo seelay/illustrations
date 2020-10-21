@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "24-creativity"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
-featured: true
+svg: ./024-creativity.svg
+png: ./024-creativity.png
+featured: false
 category:
   - Tab1
 tags:
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./024-creativity.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./024-creativity.png" download className="btn-png">PNG</a></li>

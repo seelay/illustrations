@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "33-compass"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
-featured: true
+svg: ./033-compass.svg
+png: ./033-compass.png
+featured: false
 category:
   - Tab1
 tags:

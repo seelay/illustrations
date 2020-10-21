@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "41-layers"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
-featured: true
+svg: ./041-layers.svg
+png: ./041-layers.png
+featured: false
 category:
   - Tab1
 tags:
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./041-layers.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./041-layers.png" download className="btn-png">PNG</a></li>

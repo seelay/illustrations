@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "14-3d-cube"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./014-3d-cube.svg
+png: ./014-3d-cube.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./014-3d-cube.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./014-3d-cube.png" download className="btn-png">PNG</a></li>

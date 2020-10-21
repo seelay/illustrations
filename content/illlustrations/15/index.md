@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "015-browser-1"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./015-browser-1.svg
+png: ./015-browser-1.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./015-browser-1.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./015-browser-1.png" download className="btn-png">PNG</a></li>

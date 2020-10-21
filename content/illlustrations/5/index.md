@@ -1,6 +1,6 @@
 ---
 title: "5-book"
-date: 2020-10-02
+date: 2020-06-05
 author: "Aman Seelay"
 svg: ./005-book.svg
 png: ./005-book.png

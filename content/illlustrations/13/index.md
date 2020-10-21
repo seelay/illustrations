@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "13-settings"
 date: 2020-10-02
 author: "Aman Seelay"
-svg: ./.svg
-png: ./.png
+svg: ./013-settings.svg
+png: ./013-settings.png
 featured: true
 category:
   - Tab1
@@ -12,5 +12,5 @@ tags:
   - grid
   - single
 ---
-<li><a href="./.svg" download className="btn-svg">SVG</a></li>
-<li><a href="./.png" download className="btn-png">PNG</a></li>
+<li><a href="./013-settings.svg" download className="btn-svg">SVG</a></li>
+<li><a href="./013-settings.png" download className="btn-png">PNG</a></li>
