@@ -12,11 +12,11 @@ const Product = () => {
         <h4>OTHER PRODUCTS</h4>
         <div className="product-wrap">
           <div className="product-box">
-            <a href="https://contrauikit.com/?ref=illlustrations" target="__blank" className="p-box">
-              <img src="contra.svg" />
+            <a href="https://seelay.co.in" target="__blank" className="p-box">
+              <img src="s-logo.svg" />
             </a>
           </div>
-          <div className="product-box">
+          {/* <div className="product-box">
             <a href="https://uiprint.co/?ref=illlustrations" target="__blank" className="p-box">
               <img src="uiprint.svg" />
             </a>
@@ -32,7 +32,7 @@ const Product = () => {
             <a href="https://uilogos.co/?ref=illlustrations" className="p-box"target="__blank" >
               <img src="uilogos.svg" />
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

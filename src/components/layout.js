@@ -56,11 +56,11 @@ class Layout extends React.Component {
               <a href="/license">Free for Commercial and Personal Use</a>
             </div>
           </div>
-          <h3>Design & develop <a href="https://vijayverma.co/?ref=illlustrations">vijay verma</a> </h3>
+          <h3>Project by <a href="https://seelay.co.in">Aman Seelay</a> </h3>
           <ul className="scl-lnk">
-            <li><a href="https://dribbble.com/realvjy" target="__blank"><img src="/dribbble.svg"/></a></li>
-            <li><a href="https://twitter.com/realvjy" target="__blank"><img src="/twitter.svg"/></a></li>
-            <li><a href="https://instagram.com/realvjy" target="__blank"><img src="/insta.svg"/></a></li>
+            <li><a href="https://behance.net/imseelay" target="__blank"><img src="/behance.svg"/></a></li>
+            <li><a href="https://facebook.com/imseelay" target="__blank"><img src="/facebook.svg"/></a></li>
+            <li><a href="https://instagram.com/imseelay" target="__blank"><img src="/insta.svg"/></a></li>
           </ul>
           </div>
         </footer>

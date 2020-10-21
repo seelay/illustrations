@@ -41,11 +41,11 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `keywords`,
-          content: `illlustrations, illustrations, open source illustrations, free illustration, vectors, free vector, free illustration download, realvjy, illlustrations.co, free eps, illustration kit, free vector, download illustration, open illustrations, vector download, free illlustrations, illustrator file`,
+          content: `illlustrations, illustrations, open source illustrations, free illustration, vectors, free vector, free illustration download, seelay, illustrations.seelay.co.in, free eps, illustration kit, free vector, download illustration, open illustrations, vector download, free illlustrations, illustrator file`,
         },
         {
           property: `og:image`,
-          content: `https://illlustrations.co/preview.jpg`,
+          content: `https://illustrations.seelay.co.in/preview.jpg`,
         },
         {
           property: `og:title`,
@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:creator`,
-          content: `@realvjy`,
+          content: `@imseelay`,
         },
         {
           name: `twitter:url`,
@@ -85,7 +85,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://illlustrations.co/preview.jpg`,
+          content: `https://illustrations.seelay.co.in/preview.jpg`,
         },
       ].concat(meta)}
     />
