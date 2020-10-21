@@ -17,7 +17,7 @@ class License extends React.Component {
           <div className="container">
             <div className="license_box">
               <h1>The MIT License (MIT)</h1>
-              <h4>Copyright © 2019 vijay verma for illlustrations</h4>
+              <h4>Copyright © 2020 Aman Seelay for illlustrations</h4>
               <p>
               Permission is hereby granted, free of charge, to any person obtaining a copy
               of this software and associated documentation files (the "Software"), to deal
@@ -46,8 +46,8 @@ class License extends React.Component {
               <h3 className="summary">Brand and Logos</h3>
               <ul>
                 <li>All logos and brands are registered trademarks of their respected owners. </li>
-                <li>All logos and brands are included on a promotional basis and do not represent an association with <strong>illlustrations.co</strong> or its users. </li>
-                <li>It not indicate any kind of endorsement of the trademark holder towards illlustrations.co, nor vice versa. </li>
+                <li>All logos and brands are included on a promotional basis and do not represent an association with <strong>illustrations.seelay.co.in</strong> or its users. </li>
+                <li>It not indicate any kind of endorsement of the trademark holder towards illustrations.seelay.co.in, nor vice versa. </li>
                 <li>All logos are provided with the sole purpose to represent the actual brand/service/company that has registered the trademark and must not be used otherwise.</li>
               </ul>
             </div>
