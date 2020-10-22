@@ -12,7 +12,7 @@ class Layout extends React.Component {
       <div className="announce-wrapper designletter">
         <div className="container">
           <div className="an-details">
-            <p><a href="https://seelay.in/?ref=illustrations" target="_blank">Made with ❤ by <img src="/s-logo.png" /></a></p>
+            
           </div>
         </div>
       </div>

@@ -9,7 +9,7 @@ const Product = () => {
   return (
     <section className="product">
       <div className="container">
-        <h4>OTHER PRODUCTS</h4>
+        <h4>Made with ❤ by</h4>
         <div className="product-wrap">
           <div className="product-box">
             <a href="https://seelay.co.in" target="__blank" className="p-box">

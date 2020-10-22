@@ -883,7 +883,7 @@ footer {
   margin-bottom: 24px;
   h4 {
     font-size: 24px;
-    letter-spacing: 20px;
+    letter-spacing: 14px;
     margin-bottom: 12px;
     margin-top: 12px;
     @media (max-width: $mobile-landscape) {
@@ -903,7 +903,7 @@ footer {
     .product-box {
       .p-box {
         display: block;
-        padding: 20px;
+        // padding: 20px;
 
         img {
           width: 200px;
