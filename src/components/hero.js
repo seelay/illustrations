@@ -14,7 +14,7 @@ const Hero = () => {
           <div className="hero_details">
             <div className="texts">
               <h1>Open source illustrations / icons </h1>
-              <p><strong>50 awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations. - Aman Seelay</p>
+              <p><strong>50 awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
             </div>
 
             {/* <div className="btn-lnks">
