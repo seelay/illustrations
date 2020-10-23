@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `illlustrations`,
+    title: `illustrations`,
     author: `Aman Seelay`,
     description: `Opensource illustrations poject by SEELAY. You can use completely free and without attribution.`,
-    siteUrl: `https://illlustrations.seelay.co.in`,
+    siteUrl: `https://illustrations.seelay.co.in`,
     social: {
       twitter: `imseelay`,
     },
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `illlustrations`,
+        name: `illustrations`,
         short_name: `illustrations`,
         start_url: `/`,
         background_color: `#ffffff`,
