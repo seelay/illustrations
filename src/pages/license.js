@@ -12,12 +12,12 @@ class License extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="illlustrations - MIT License" />
+        <SEO title="illustrations - MIT License" />
         <section className="license_section">
           <div className="container">
             <div className="license_box">
               <h1>The MIT License (MIT)</h1>
-              <h4>Copyright © 2020 Aman Seelay for illlustrations</h4>
+              <h4>Copyright © 2020 Aman Seelay for illustrations</h4>
               <p>
               Permission is hereby granted, free of charge, to any person obtaining a copy
               of this software and associated documentation files (the "Software"), to deal
