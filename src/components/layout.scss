@@ -227,20 +227,16 @@ body {
         display: inline-block;
         text-align: center;
         text-decoration: none;
-        padding: 24px 32px;
-        border-radius: 36px;
-        border: 1px solid rgba(35, 36, 37, 0.2);
-        font-size: 18px;
-        font-weight: 700;
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: 1px solid rgb(255, 0, 0);
         color: $black;
         img {
-          margin-left: 5px;
           vertical-align: middle;
-          margin-top: -2px;
+          width: 2.5em;
         }
         @media (max-width: $tablet-wide) {
-          font-size: 18px;
-          padding: 18px 24px;
+          padding: 18px 18px;
         }
         &:hover {
           background: rgba(35, 36, 37, 0.02);

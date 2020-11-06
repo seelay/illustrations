@@ -17,7 +17,7 @@ const Hero = () => {
               <p><strong>50 awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
             </div>
 
-            {/* <div className="btn-lnks">
+            <div className="btn-lnks">
               <div className="dwn-links">
                 <button className="btn btn-download">
                   <h4>Download all</h4>
@@ -29,11 +29,11 @@ const Hero = () => {
                   <li><a href="https://www.figma.com/community/file/810922307190314237">Get Figma File</a></li>
                 </ul>
               </div>
-              <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-coffee">
+              <a href="https://www.buymeacoffee.com/seelay" className="btn btn-coffee">
                 <h4>Buy me a coffee</h4>
                 <span>and show some love</span>
               </a>
-            </div> */}
+            </div>
             <div className="license">
             <p>Free for <a href="/license">Commercial and Personal Use</a>. No need to credit, license, or anything.</p>
             </div>

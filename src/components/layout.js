@@ -25,7 +25,7 @@ class Layout extends React.Component {
             </Link>
             <ul className="buttons links">
               <li>
-                <a className="btn-tw" target="_blank" href="https://www.buymeacoffee.com/Seelay">Buy me a coffee <img src="/coffee.svg"/></a>
+                <a className="btn-tw" target="_blank" href="https://Seelay.co.in"><img src="/seelay.svg"/></a>
               </li>
 
             </ul>
