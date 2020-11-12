@@ -28,10 +28,9 @@ class Index extends React.Component {
         <Featured />
         <Illustrations />
         <Challange />
-        
-      </Layout>
-      <Product />
+        <Product />
 
+      </Layout>
     )
   }
 }
