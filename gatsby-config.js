@@ -63,8 +63,19 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: `content/assets/profile-pic.png`,
-      },
+        icons: [
+    {
+      src: `/content/assets/profile-pic.png`,
+      sizes: `192x192`,
+      type: `image/png`,
+    },
+    {
+      src: `illlustrations-icon.png`,
+      sizes: `512x512`,
+      type: `image/png`,
+    },
+  ],
+    
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-sass`,
