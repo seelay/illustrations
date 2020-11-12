@@ -54,10 +54,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-feed`,
-
-
-
-
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -67,26 +63,9 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-
-        icons: [
-          {
-            src: `/content/assets/profile-pic.png`,
-            sizes: `192x192`,
-            type: `image/png`,
-          },
-          {
-            src: `/content/assets/illlustrations-icon.png`,
-            sizes: `512x512`,
-            type: `image/png`,
-          },
-        ],
-
+        icon: `content/assets/profile-pic.png`,
       },
     },
-      
-
-
-
     `gatsby-plugin-offline`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
