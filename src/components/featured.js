@@ -53,7 +53,7 @@ const Featured = () => {
     <section className="illus chris">
       <div className="container">
         <div className="title">
-          <h1>50 New Illustrations</h1>
+          <h1>50 New icons</h1>
         </div>
         <div className="illus-wrap">
         {illlus.map(({ node }) => {
