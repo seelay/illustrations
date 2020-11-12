@@ -75,7 +75,7 @@ module.exports = {
             type: `image/png`,
           },
           {
-            src: `illlustrations-icon.png`,
+            src: `/content/assets/illlustrations-icon.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
