@@ -13,8 +13,8 @@ const Hero = () => {
           </div>
           <div className="hero_details">
             <div className="texts">
-              <h1>Free illustrations / icons </h1>
-              <p><strong>50 awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
+              <h1>Open-source illustrations</h1>
+              <p><strong>Awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
             </div>
 
             {/* <div className="btn-lnks">
