@@ -1,7 +1,4 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
-
 
 const Hero = () => {
   return (
@@ -13,36 +10,41 @@ const Hero = () => {
           </div>
           <div className="hero_details">
             <div className="texts">
-              <h1>Open-source illustrations</h1>
-              <p><strong>Awesome illustrations</strong> (adding more...) You can download all illustrations completely <strong>free</strong> and <strong>use</strong> these to design awesome - landing pages, mobile app or presentations.</p>
+              <h1>Free illustrations</h1>
+              <p>
+                All the <strong>illustrations</strong> are completely
+                <strong> free</strong>. You can download these illustrations(
+                including .svg, .eps and .png) files and
+                <strong> use</strong> them in your work.
+              </p>
             </div>
 
-            {/* <div className="btn-lnks">
+            <div className="btn-lnks">
               <div className="dwn-links">
                 <button className="btn btn-download">
-                  <h4>Download all</h4>
-                  <span>AI, SVG, PNG, EPS and Figma</span>
+                  <h4>Download</h4>
                 </button>
                 <ul className="dwn-list">
-                  <li><a href="https://github.com/realvjy/illlustrations/releases/download/1.0.3/illlustrations.co.1.0.3.zip">AI, SVG and PNG Files</a></li>
-                  <li><a href="https://www.dropbox.com/sh/wd9awx71rx5fr8z/AABATGMLfrM6d_kQLj__yaQga?dl=0">EPS Files</a></li>
-                  <li><a href="https://www.figma.com/community/file/810922307190314237">Get Figma File</a></li>
+                  <li>
+                    <a href="https://mega.nz/folder/taZVhACJ#PqN7SogMdCOujGtDGqfp3g">
+                      SVG, EPS and PNG Files
+                    </a>
+                  </li>
                 </ul>
               </div>
-             
-            </div> */}
-            <div className="btn-lnks" >
-
-
-               <a href="https://www.buymeacoffee.com/seelay" className="btn btn-coffee">
+              <a
+                href="https://www.buymeacoffee.com/seelay"
+                className="btn btn-coffee"
+              >
                 <h4>Buy me a coffee</h4>
-                <span>and show some love</span>
               </a>
-
             </div>
-            
+
             <div className="license">
-            <p>Free for <a href="/license">Commercial and Personal Use</a>. No need to credit, license, or anything.</p>
+              <p>
+                Free for <a href="/license">Commercial and Personal Use</a>. No
+                need to credit, license, or anything.
+              </p>
             </div>
           </div>
         </div>

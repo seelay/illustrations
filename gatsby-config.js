@@ -2,8 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `illustrations`,
     author: `Aman Seelay`,
-    description: `Opensource illustrations poject by SEELAY. You can use completely free and without attribution.`,
-    siteUrl: `https://illustrations.seelay.co.in`,
+    description: `All the illustrations are completely free. You can download these illustrations( including .svg, .eps and .png) files and use them in your work.
+`,
+    siteUrl: `https://illustrations.seelay.in`,
     social: {
       twitter: `imseelay`,
     },
@@ -63,7 +64,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: `content/assets/illustrations-icon.png`,
+        icon: `content/assets/logo.png`,
       },
     },
     `gatsby-plugin-offline`,

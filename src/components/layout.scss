@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700&display=swap");
+@import url("fonts/fonts.css");
 
 // Variables
 $black: #000000;
 $white: #ffffff;
 $green: #24d3b2;
-$lightbg: #eee7d6;
-$grey: #f1ede9;
+$lightbg: #ffffff;
+$grey: #ffffff;
 $blue: #0e63f9;
-$b-grey: #f0f2fb;
+$b-grey: #ffffff;
 $red: #ff434d;
 $light-grey: #353639;
 $blue-grey: #000000;
@@ -164,7 +165,25 @@ html,
 body {
   font-family: "Poppins", sans-serif;
 }
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 20px;
+}
 
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}
 // Basic layout
 .container {
   max-width: 1200px;
@@ -188,16 +207,19 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    @media (max-width: $tablet-wide) {
+      padding: 45px 18px;
+      display: block;
+    }
     @media (max-width: $mobile-landscape) {
       padding: 30px 18px;
+      display: block;
     }
     .brand {
       display: block;
       text-align: center;
     }
-    @media (max-width: $tablet-wide) {
-      display: block;
-    }
+
     @media (max-width: $mobile-landscape) {
     }
     .buttons {
@@ -206,7 +228,6 @@ body {
       @media (max-width: $tablet-wide) {
         display: block;
         text-align: center;
-        margin-top: 18px;
       }
       .btn-dwn {
         display: inline-block;
@@ -229,14 +250,12 @@ body {
         text-decoration: none;
         padding: 10px 10px;
         border-radius: 10px;
-        border: 1px solid rgb(255, 0, 0);
-        color: $black;
+
         img {
           vertical-align: middle;
           width: 2.5em;
         }
         @media (max-width: $tablet-wide) {
-          padding: 18px 18px;
         }
         &:hover {
           background: rgba(35, 36, 37, 0.02);
@@ -405,9 +424,14 @@ body {
   display: flex;
   @media (max-width: $mobile-landscape) {
     margin-top: 20px;
-    padding: 10px;
+    padding: 30px;
     flex-direction: column;
   }
+  @media (max-width: $tablet-wide) {
+    justify-content: center;
+    padding: 20px;
+  }
+
   .dwn-links {
     position: relative;
     display: inline-block;
@@ -556,7 +580,7 @@ footer {
       }
     }
     h3 {
-      font-size: 22px;
+      font-size: 32px;
       color: $light-grey;
       margin-top: 50px;
       a {
@@ -568,7 +592,7 @@ footer {
       }
     }
     .scl-lnk {
-      margin-top: 10px;
+      margin-top: 30px;
       margin-bottom: 30px;
       display: flex;
       justify-content: center;
@@ -874,9 +898,9 @@ footer {
 .product {
   background: $grey;
   text-align: center;
-  padding-top: 54px;
+  padding-top: 24px;
   padding-bottom: 24px;
-  margin-bottom: 24px;
+
   h4 {
     font-size: 24px;
     letter-spacing: 14px;
@@ -1052,4 +1076,9 @@ footer {
       text-align: center;
     }
   }
+}
+#seelay-logo {
+  font-family: Seelay;
+  letter-spacing: 1px;
+  text-decoration: none;
 }

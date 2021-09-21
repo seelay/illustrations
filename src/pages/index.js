@@ -25,11 +25,8 @@ class Index extends React.Component {
         <Hero />
         {/* <Tab1 />
         <COVID19 /> */}
-        <Featured />
+        {/* <Featured /> */}
         <Illustrations />
-        <Challange />
-        <Product />
-
       </Layout>
     )
   }
@@ -38,29 +35,28 @@ class Index extends React.Component {
 export default Index
 
 export const pageQuery = graphql`
-query {
-  site {
-    siteMetadata {
-      title
+  query {
+    site {
+      siteMetadata {
+        title
+      }
     }
-  }
-  allMarkdownRemark(
-    sort: { fields: [frontmatter___date], order: DESC }
-  ) {
-    edges {
-      node {
-        excerpt(format: HTML)
-        html
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      edges {
+        node {
+          excerpt(format: HTML)
+          html
 
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          author
-          category
-          png{
-            childImageSharp {
-              fluid {
-                src
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            author
+            category
+            png {
+              childImageSharp {
+                fluid {
+                  src
+                }
               }
             }
           }
@@ -68,5 +64,4 @@ query {
       }
     }
   }
-}
 `

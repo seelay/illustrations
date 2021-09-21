@@ -1,12 +1,9 @@
 {
-  "name": "illlustrations",
+  "name": "illustrations",
   "private": true,
-  "description": "Opensource illustrations poject by SEELAY. You can use completely free and without attribution.",
+  "description": "Awesome illustrations, all the illustrations completely free to use.",
   "version": "1.0.1",
   "author": "Aman Seelay <Aman@seelay.in>",
-  "bugs": {
-    "url": "https://github.com/imseelay/illustrations/issues"
-  },
   "dependencies": {
     "gatsby": "^2.24.82",
     "gatsby-image": "^2.2.30",
@@ -41,19 +38,9 @@
     "gh-pages": "^2.1.1",
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
