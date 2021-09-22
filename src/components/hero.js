@@ -13,8 +13,8 @@ const Hero = () => {
               <h1>Free illustrations</h1>
               <p>
                 All the <strong>illustrations</strong> are completely
-                <strong> free</strong>. You can download these illustrations(
-                including .svg, .eps and .png) files and
+                <strong> free</strong>. You can download these illustrations
+                including .svg, .eps and .png files and
                 <strong> use</strong> them in your work.
               </p>
             </div>

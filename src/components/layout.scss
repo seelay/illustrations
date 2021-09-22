@@ -171,7 +171,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: transparent;
+  background-color: #ffffff;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -558,7 +558,9 @@ body {
 }
 
 footer {
+  background-color: #ffffff;
   .dev-credit {
+    background-color: #ffffff;
     padding: 18px;
     text-align: center;
     .logo {
@@ -580,9 +582,9 @@ footer {
       }
     }
     h3 {
-      font-size: 32px;
+      font-size: 24px;
       color: $light-grey;
-      margin-top: 50px;
+      margin-top: 24px;
       a {
         text-decoration: none;
         font-weight: 700;
@@ -618,8 +620,9 @@ footer {
 .illus {
   padding-top: 70px;
   padding-bottom: 40px;
+  background-color: #ffffff;
   &.chris {
-    background: $grey;
+    background-color: #ffffff;
   }
   .title {
     padding: 18px;
