@@ -165,25 +165,27 @@ html,
 body {
   font-family: "Poppins", sans-serif;
 }
-/* custom scrollbar */
-::-webkit-scrollbar {
-  width: 20px;
-}
 
+/* custom scrollbar */
 ::-webkit-scrollbar-track {
   background-color: #ffffff;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
 ::-webkit-scrollbar-thumb {
   background-color: #d6dee1;
-  border-radius: 20px;
-  border: 6px solid transparent;
-  background-clip: content-box;
+  border-radius: 7px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #a8bbbf;
 }
+
+/* custom scrollbar */
+
 // Basic layout
 .container {
   max-width: 1200px;
