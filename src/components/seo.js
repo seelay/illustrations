@@ -45,7 +45,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://illustrations.seelay.co.in/preview.jpg`,
+          content: `https://illustrations.seelay.in/og.png`,
         },
         {
           property: `og:title`,
@@ -85,7 +85,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://illustrations.seelay.co.in/preview.jpg`,
+          content: `https://illustrations.seelay.in/og.png`,
         },
       ].concat(meta)}
     />
