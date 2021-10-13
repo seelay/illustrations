@@ -10,7 +10,7 @@ const Challange = () => {
           title
         }
       }
-      allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
+      allMarkdownRemark(sort: { fields: [frontmatter___title], order: DESC }) {
         edges {
           node {
             excerpt(format: HTML)

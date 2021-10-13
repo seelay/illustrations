@@ -1,17 +1,15 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-// import Bio from "../components/bio"
-import Challange from "../components/challenge"
-import Illustrations from "../components/100-illustrations"
+import Illustrations from "../components/illustrations"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Hero from "../components/hero"
-// import Sponsored from "../components/sponsored"
+
 import Product from "../components/product"
 import Featured from "../components/featured"
-import COVID19 from "../components/covid-19"
-import Tab1 from "../components/tab1"
+import Control from "../components/control"
+import Lineal from "../components/lineal"
 
 class Index extends React.Component {
   render() {
@@ -23,10 +21,11 @@ class Index extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="illustrations" />
         <Hero />
-        {/* <Tab1 />
-        <COVID19 /> */}
+        {/* <Illustrations /> */}
+        <Control />
+        <Lineal />
+
         {/* <Featured /> */}
-        <Illustrations />
       </Layout>
     )
   }

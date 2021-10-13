@@ -10,7 +10,7 @@ const Hero = () => {
           </div>
           <div className="hero_details">
             <div className="texts">
-              <h1>Free illustrations</h1>
+              {/* <h1>Free illustrations</h1> */}
               <p>
                 All the <strong>illustrations</strong> are completely
                 <strong> free</strong>. You can download these illustrations
@@ -26,7 +26,10 @@ const Hero = () => {
                 </button>
                 <ul className="dwn-list">
                   <li>
-                    <a href="https://mega.nz/folder/taZVhACJ#PqN7SogMdCOujGtDGqfp3g">
+                    <a
+                      target="blank"
+                      href="https://mega.nz/folder/JfpkVJwC#7deavF2sglSdOSK-97EL4A"
+                    >
                       SVG, EPS and PNG Files
                     </a>
                   </li>

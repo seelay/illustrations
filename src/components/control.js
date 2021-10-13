@@ -2,17 +2,17 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-const Featured = () => {
+const COVID19 = () => {
   const data = useStaticQuery(graphql`
-    query featuredQuery {
+    query covidQuery {
       site {
         siteMetadata {
           title
         }
       }
       allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { frontmatter: { featured: { eq: true } } }
+        sort: { fields: [frontmatter___title], order: DESC }
+        filter: { frontmatter: { category: { eq: "Control" } } }
       ) {
         edges {
           node {
@@ -47,10 +47,10 @@ const Featured = () => {
   const illlus = data.allMarkdownRemark.edges
 
   return (
-    <section className="illus chris">
+    <section className="illus illus-box">
       <div className="container">
         <div className="title">
-          <h1>50 New icons</h1>
+          <h1>Control</h1>
         </div>
         <div className="illus-wrap">
           {illlus.map(({ node }) => {
@@ -89,22 +89,12 @@ const Featured = () => {
         <div className="feature-dwn">
           <div className="btn-lnks">
             <a
-              href="https://mega.nz/file/BKR0kL7A#ENKe9ovwaSVN6JYiMLYp9jPJO0gLq3n0Q-aC_w10ViU"
-              target="__blank"
+              target="blank"
+              href="https://mega.nz/folder/JfpkVJwC#7deavF2sglSdOSK-97EL4A/folder/dLY2kBCL"
               className="btn btn-coffee"
             >
-              <h4>Download New Pack</h4>
+              <h4>Download Control Pack</h4>
             </a>
-            {/* <div className="dwn-links">
-                <button className="btn btn-download">
-                  <h4>Download all</h4>
-                </button>
-                <ul className="dwn-list">
-                  <li><a href="https://github.com/realvjy/illlustrations/releases/download/1.0.3/illlustrations.co.1.0.3.zip">AI, SVG and PNG Files</a></li>
-                  <li><a href="https://www.dropbox.com/sh/wd9awx71rx5fr8z/AABATGMLfrM6d_kQLj__yaQga?dl=0">EPS Files</a></li>
-                  <li><a href="https://www.figma.com/community/file/810922307190314237">Get Figma File</a></li>
-                </ul>
-              </div> */}
           </div>
         </div>
       </div>
@@ -112,4 +102,4 @@ const Featured = () => {
   )
 }
 
-export default Featured
+export default COVID19
