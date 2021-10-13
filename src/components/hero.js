@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="container">
         <div className="hero_wrapper">
           <div className="hero_img">
-            <img src="/notebook.png" />
+            <img src="/notebook.svg" />
           </div>
           <div className="hero_details">
             <div className="texts">
