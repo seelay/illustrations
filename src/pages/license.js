@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Challange from "../components/challenge"
 
 class License extends React.Component {
   render() {
@@ -17,7 +16,7 @@ class License extends React.Component {
           <div className="container">
             <div className="license_box">
               <h1>The MIT License (MIT)</h1>
-              <h4>Copyright © 2020 Aman Seelay</h4>
+              <h4>Copyright © 2023 Aman Seelay</h4>
               <p>
                 Permission is hereby granted, free of charge, to any person
                 obtaining a copy of this software and associated documentation

@@ -1,13 +1,10 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Illustrations from "../components/illustrations"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Hero from "../components/hero"
 
-import Product from "../components/product"
-import Featured from "../components/featured"
 import Control from "../components/control"
 import Lineal from "../components/lineal"
 
@@ -21,11 +18,9 @@ class Index extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="illustrations" />
         <Hero />
-        {/* <Illustrations /> */}
+
         <Control />
         <Lineal />
-
-        {/* <Featured /> */}
       </Layout>
     )
   }

@@ -43,7 +43,7 @@ class Layout extends React.Component {
               </a>{" "}
             </h3>
             <ul className="scl-lnk">
-              <li>
+              {/* <li>
                 <a href="https://behance.net/imseelay" target="__blank">
                   <img src="/behance.svg" />
                 </a>
@@ -57,7 +57,7 @@ class Layout extends React.Component {
                 <a href="https://instagram.com/imseelay" target="__blank">
                   <img src="/insta.svg" />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </footer>

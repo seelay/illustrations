@@ -10,7 +10,6 @@ const Hero = () => {
           </div>
           <div className="hero_details">
             <div className="texts">
-              {/* <h1>Free illustrations</h1> */}
               <p>
                 All the <strong>illustrations</strong> are completely
                 <strong> free</strong>. You can download these illustrations
